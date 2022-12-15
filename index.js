@@ -92,7 +92,7 @@ const APIController = (function() {
         const data = await result.json();
         return data.playlists.items;
     }
-
+// 
     const _getTracks = async (token, tracksEndPoint) => {
 
         const limit = 6;
