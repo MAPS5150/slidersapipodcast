@@ -1,0 +1,129 @@
+<div class="containerpodcast">
+                <!-- Área de podcast-->
+        <div class="container text-center my-3" style=" width: auto; max-height: 100%;">
+            <h2 style="color:#f2801f; margin-left: -55rem;"><b>Podcasts</b> </h2>
+            <div class="contCasrrusel" style="margin: 50px;">
+                <i id="left" class="fa-solid fa-angle-left" style="z-index: 2;"></i>
+                <!-- carrusel -->
+                <div class="carrusel">
+                    <!-- card 1 -->
+                    <div class=" cardCarrusel">
+                        <div class="contImg"><img class="imgPodcast" src="" alt=""></div>
+                        <div class="contTexto">
+                            <div>
+                                
+                            </div>
+                            <div style="display: flex;">
+                                <!-- icono de play para reproducir todo el podcast -->
+                                <a style="margin-top: -1rem;"
+                                    href=""
+                                    target="_blank">
+                                    <p class="pPodcastTexto"> <img style="width: 20px; height: 20px;"
+                                            src="play-outline.svg" alt=""> Reproducción Completa</p>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- card 2 -->
+                    <div class=" cardCarrusel">
+                        <div class="contImg"><img class="imgPodcast" src="" alt=""></div>
+                        <div class="contTexto">
+                            <div>
+                                <!-- <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0tdF8j4ldmOj39AwVYUAsn?utm_source=generator" height="1000" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe> -->
+                            </div>
+                            <div style="display: flex;">
+                                <!-- icono de play para reproducir todo el podcast -->
+                                <a style="margin-top: -1rem;"
+                                    href=""
+                                    target="_blank">
+                                    <p class="pPodcastTexto"> <img style="width: 20px; height: 20px;"
+                                                    src="play-outline.svg" alt=""> Reproducción Completa</p>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- card 3 -->
+                    <div class=" cardCarrusel">
+                        <div class="contImg"><img class="imgPodcast" src="" alt=""></div>
+                        <div class="contTexto">
+                            <div>
+                                <!-- <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/2mwnYvlLVP465u9V9wjUGj?utm_source=generator"  height="1000" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe> -->
+
+                            </div>
+                            <div style="display: flex;">
+                                <!-- icono de play para reproducir todo el podcast -->
+                                <a style="margin-top: -1rem;"
+                                    href=""
+                                    target="_blank">
+                                    <p class="pPodcastTexto"> <img style="width: 20px; height: 20px;"
+                                            src="play-outline.svg" alt=""> Reproducción Completa</p>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- card 4 -->
+                    <div class=" cardCarrusel">
+                        <div class="contImg"><img class="imgPodcast" src="" alt=""></div>
+                        <div class="contTexto">
+                            <div>
+                                <!-- <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6Kzi4F77twuPRkNhxonUET?utm_source=generator" height="1000" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe> -->
+
+                            </div>
+                            <div style="display: flex;">
+                                <!-- icono de play para reproducir todo el podcast -->
+                                <a style="margin-top: -1rem;"
+                                    href=""
+                                    target="_blank">
+                                    <p class="pPodcastTexto"> <img style="width: 20px; height: 20px;"
+                                            src="play-outline.svg" alt=""> Reproducción Completa</p>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- card 5 -->
+                    <div class=" cardCarrusel">
+                        <div class="contImg"><img class="imgPodcast" src="" alt=""></div>
+                        <div class="contTexto">
+                            <div>
+                                <!-- <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5QLHGv0DfpeXLNFo7SFEy1?utm_source=generator"  height="1000" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe> -->
+
+                            </div>
+                            <div style="display: flex;">
+                                <!-- icono de play para reproducir todo el podcast -->
+                                <a style="margin-top: -1rem;"
+                                    href=""
+                                    target="_blank">
+                                    <p class="pPodcastTexto"> <img style="width: 20px; height: 20px;"
+                                            src="play-outline.svg" alt=""> Reproducción Completa</p>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- card 6 -->
+                    <div class=" cardCarrusel">
+                        <div class="contImg"><img class="imgPodcast" src="" alt=""></div>
+                        <div class="contTexto">
+                            <div>
+                                <!-- <iframe style="border-radius:12px"
+                                    src="https://open.spotify.com/embed/track/0c4IEciLCDdXEhhKxj4ThA?utm_source=generator"
+                                    height="1000" frameBorder="0" allowfullscreen=""
+                                    allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
+                                    loading="lazy"></iframe> -->
+                            </div>
+                            <div style="display: flex;">
+                                <!-- icono de play para reproducir todo el podcast -->
+                                <a style="margin-top: -1rem;"
+                                    href=""
+                                    target="_blank">
+                                    <p class="pPodcastTexto"> <img style="width: 20px; height: 20px;"
+                                            src="play-outline.svg" alt=""> Reproducción Completa</p>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <i id="right" class="fa-solid fa-angle-right"></i>
+            </div>
+
+        </div>
+    </div>
